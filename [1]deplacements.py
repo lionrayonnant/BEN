@@ -3,9 +3,7 @@
 #J'ai aussi utilisé la bibliothèque des capteurs ultrason que j'ai ensuite couplés à une bibliothèque qui permet d'utiliser Grove ( arduino ) avec du code python.
 #Lien de la bibliothèque Grove vers Python : https://github.com/Seeed-Studio/grove.py
 #Le robot s'apelle Mr.Robot
-#Si vous voulez me partager vos avancées sur votre projet de robot livreur, vous pouvez me contacter sur : mmailpoubellee@gmail.com
 #Date : 07/06/2022
-#Crédits : Léo Fruchart
 
 from __future__ import print_function
 from grove.grove_ultrasonic_ranger import GroveUltrasonicRanger
