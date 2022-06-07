@@ -14,5 +14,22 @@ Make a **git clone** in your project folder with this command line :
   
 `git clone https://github.com/Seeed-Studio/grove.py`
   
+## opencv2
+  
+You need to download opencv2 if you want run the camera.  
+Follow the instructions bellow to install it :  
+- Write this commands in the terminal :  
+
+`sudo pip3 install opencv-contrib-python==4.5.5.62
+
+sudo apt install libhdf5-dev libhdf5-serial-dev libhdf5-103
+
+sudo apt install libatlas-base-dev
+
+pip3 install numpy --upgrade --ignore-installed
+
+pip3 install pyzbar
+
+pip3 install qrcode`
 
 Good luck STI2D !
