@@ -1,9 +1,9 @@
-#Bonjour confrères STI2D SIN. Je vous souhaite bien du courage et de l'ambition pour votre projet
-#Ce code a été élaboré à partir de la bibliothèque nécessaire aux moteurs, lien Github : https://github.com/DFRobot/DFRobot_RaspberryPi_Motor
-#J'ai aussi utilisé la bibliothèque des capteurs ultrason que j'ai ensuite couplés à une bibliothèque qui permet d'utiliser Grove ( arduino ) avec du code python.
-#Lien de la bibliothèque Grove vers Python : https://github.com/Seeed-Studio/grove.py
-#Le robot s'apelle Mr.Robot
-#Date : 07/06/2022
+# Bonjour confrères STI2D SIN. Je vous souhaite bien du courage et de l'ambition pour votre projet
+# Ce code a été élaboré à partir de la bibliothèque nécessaire aux moteurs, lien Github : https://github.com/DFRobot/DFRobot_RaspberryPi_Motor
+# J'ai aussi utilisé la bibliothèque des capteurs ultrason que j'ai ensuite couplés à une bibliothèque qui permet d'utiliser Grove ( arduino ) avec du code python.
+# Lien de la bibliothèque Grove vers Python : https://github.com/Seeed-Studio/grove.py
+# Le robot s'apelle BEN
+# Date : 07/06/2022
 
 from __future__ import print_function
 from grove.grove_ultrasonic_ranger import GroveUltrasonicRanger
