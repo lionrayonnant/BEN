@@ -30,6 +30,7 @@ And finnaly a finality :
 Préparer technologiquement l’évolution sociétale de la distribution des produits courants de type épicerie.
   
 ## Process
+### Repartition
 In this project, we were 5 guys with 1 task each.  
 List of the tasks :
   
@@ -44,7 +45,9 @@ main parameters on a supervision PC.
 - [**5**] Studying, simulating and carrying out the authorization of access to products based on the reading of a
 QR Code.
   
-My task was the number **1**. So, I have made a lot of research and take some notes before starting. I have search how complete my task by the best way without spend too much money. So I choose these components for the realization of the robot :
+My task was the number **1**. So, I have made a lot of research and take some notes before starting. I have search how complete my task by the best way without spend too much money. 
+### Components
+So I choose these components for the realization of the robot :
   
 - Raspberry Pi 4 B board - 2 GB
 - US detection module HC-SR04A
@@ -59,16 +62,22 @@ My task was the number **1**. So, I have made a lot of research and take some no
 - Hat module 2 DC motors 1.2 A DFR0592
 - Base Hat for Raspberry Pi Grove
   
-You can also count som male-male cable and some female-male cables and also a bredboard coupled with 2 led (  1 green and 1 red ).
+You can also count som male-male cable and some female-male cables and also a bredboard coupled with 2 led (  1 green and 1 red )
   
+Here is the list of the component with links for shop them : [Liste composants robot livreur.xlsx](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856706/Liste.composants.robot.livreur.xlsx)
   
+### Diagrams, visualization and schematics
+You can find below some realizations graphic that I have made.
+![diagram1](https://user-images.githubusercontent.com/106342136/172487064-a080fab4-54a2-4cb8-98e7-dfe3582bc39a.png)
+![diagram2](https://user-images.githubusercontent.com/106342136/172487186-51a61364-4810-4f8d-96e6-c503cb613883.png)
   
-  
-  
-  
-  
-  
-  
+Here is a global diagram : [global_diagram.pdf](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856730/global_diagram.pdf)
+### Assembly
+First, you need to assemble the frame. You can find all the necessary informations in this documentation : [pj2-robot05-manual-2152.pdf](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856761/pj2-robot05-manual-2152.pdf)
+Now you should have something like this : ![robot_view1](https://github.com/liorayonnant/Mr.Robot-Robot-Livreur/github/ressources/robot_view1)
+![robot_view1 2](https://github.com/liorayonnant/Mr.Robot-Robot-Livreur/github/ressources/robot_view1.2)
+
+
   
   
 You will need to download a last library who **is not included in my repo.**  
