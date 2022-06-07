@@ -8,8 +8,6 @@
 
 <p align="center">
   _This is my final project of TSTI2D._
-      width="284" border="0" alt="Mr.Robot">
-  </a>
 </p>
   
 Project available at : https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/
