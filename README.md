@@ -9,3 +9,5 @@ This is the **grove.py** library ( to use arduino script on python ).
 Make a **git clone** in your project folder with this command line :  
   
 `git clone https://github.com/Seeed-Studio/grove.py`
+  
+Good luck STI2D !
