@@ -32,4 +32,6 @@ Follow the instructions bellow to install it :
 
 `pip3 install qrcode`  
 
+Link of the library repo 🇪🇸 : https://github.com/ComputadorasySensores/Capitulo53
+
 Good luck STI2D !
