@@ -68,8 +68,11 @@ Here is the list of the component with links for shop them : [Liste composants r
   
 ### Diagrams, visualization and schematics
 You can find below some realizations graphic that I have made.
-![diagram1](https://user-images.githubusercontent.com/106342136/172487064-a080fab4-54a2-4cb8-98e7-dfe3582bc39a.png)
-![diagram2](https://user-images.githubusercontent.com/106342136/172487186-51a61364-4810-4f8d-96e6-c503cb613883.png)
+![diagram1](/github/ressources/diagram1.png)
+<p align="center">
+    <img  src="/github/ressources/diagram2.png"
+      width="284" border="0" alt="diagram2">
+</p>  
   
 Here is a global diagram : [global_diagram.pdf](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856730/global_diagram.pdf)
 ### Assembly
