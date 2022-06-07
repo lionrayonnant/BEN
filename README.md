@@ -1,7 +1,7 @@
 # Mr.Robot
 <p align="center">
   <a href="https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/">
-    <img  src="/github/ressources/mr-robot"
+    <img  src="/github/ressources/mrobot"
       width="284" border="0" alt="Mr.Robot">
   </a>
 </p>
