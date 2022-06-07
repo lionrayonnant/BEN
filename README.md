@@ -74,8 +74,8 @@ You can find below some realizations graphic that I have made.
 Here is a global diagram : [global_diagram.pdf](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856730/global_diagram.pdf)
 ### Assembly
 First, you need to assemble the frame. You can find all the necessary informations in this documentation : [pj2-robot05-manual-2152.pdf](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856761/pj2-robot05-manual-2152.pdf)
-Now you should have something like this : ![robot_view1](https://github.com/liorayonnant/Mr.Robot-Robot-Livreur/github/ressources/robot_view1.jpg)
-![robot_view1 2](https://github.com/liorayonnant/Mr.Robot-Robot-Livreur/github/ressources/robot_view1.2.jpg)
+Now you should have something like this : ![robot_view1](https://github.com/liorayonnant/Mr.Robot-Robot-Livreur/github/ressources/robot_view1.JPG)
+![robot_view1 2](https://github.com/liorayonnant/Mr.Robot-Robot-Livreur/github/ressources/robot_view12.JPG)
 
 
   
