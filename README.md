@@ -1,5 +1,4 @@
 # Mr.Robot
-![mr-robot-safety-tips-featured](https://user-images.githubusercontent.com/106342136/172389843-d4fd9d77-9e42-4ac5-abea-52cf4299cd89.jpg)
 
 _This is my final project of TSTI2D._
 
