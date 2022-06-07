@@ -4,12 +4,10 @@
     <img  src="/github/ressources/mrobot.png"
       width="284" border="0" alt="Mr.Robot">
   </a>
-</p>
-
-<p align="center">
-  _This is my final project of TSTI2D._
-</p>
+</p>  
   
+_This is my final project of TSTI2D._
+
 Project available at : https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/
 
 ## grove.py
