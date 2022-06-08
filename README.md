@@ -50,6 +50,7 @@ My task was the number **1**. So, I have made a lot of research and take some no
 So I choose these components for the realization of the robot :
   
 - Raspberry Pi 4 B board - 2 GB
+- 32 GB SD card
 - US detection module HC-SR04A
 - Official 8 MP RB-CAM-V camera
 - External USB battery UPBK10002BK
@@ -76,16 +77,16 @@ You can find below some realizations graphic that I have made.
   
 Here is a global diagram : [global_diagram.pdf](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856730/global_diagram.pdf)
 ## Assembly
-### **{1}** First, you need to assemble the Chassis Robot05.  
+### **{1}** First, you need to assemble the Chassis Robot05.    
 You can find all the necessary informations in this documentation : [pj2-robot05-manual-2152.pdf](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856761/pj2-robot05-manual-2152.pdf)  
 Now you should have something like this : ![robot_view1](github/ressources/robot_view1.png)
 ![robot_view1 2](github/ressources/robot_view1.2.png)
   
-### **{2}** Then, you can to screw the RPI4 on the frame.  
+### **{2}** Then, you can to screw the RPI4 on the frame.    
 Logically, you put the necessary cables from the motors and the incremental encoders to the RPI4.  
 You can use the documentation of the motors if you need of : https://wiki.dfrobot.com/Micro_DC_Motor_with_Encoder-SJ01_SKU__FIT0450  
 
-### **{3}** To let the RPI4 have a full controll on the motors, you will need to place the Hat module 2 DC motors 1.2 A DFR0592 on the RPI4.   
+### **{3}** To let the RPI4 have a full controll on the motors, you will need to place the Hat module 2 DC motors 1.2 A DFR0592 on the RPI4.     
 You just have to place it on the GPIO Pins.  
 Their is the documentation if you need of : https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/DFR0592_Web.pdf  
   
@@ -104,11 +105,11 @@ At this point, the robot should look like this :
 You just have to set it on the GPIO Pins.  
 Their is the documentation : https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/
 
-### **{6}** Add the US detection module HC-SR04A ultrasonic sensors.
+### **{6}** Add the US detection module HC-SR04A ultrasonic sensors.  
 You have to plug them on the hat set just before. Be sure to plug them on the same ports as indicated in the code.
 Their is the documentation : https://www.gotronic.fr/pj2-hc-sr04-utilisation-avec-picaxe-1343.pdf
 
-### **{7}** Plug the necessary cables from the RPI4 to the breadboard, add some leds and the buzzer.
+### **{7}** Plug the necessary cables from the RPI4 to the breadboard, add some leds and the buzzer.  
 As the pictures below, plug the necessary cables, the leds and the buzzer.  
 ![IMG_3574](https://user-images.githubusercontent.com/106342136/172499657-29e99176-7738-4a2a-a345-f7d6fb3ef40c.png)
 
@@ -119,12 +120,12 @@ As the pictures below, plug the necessary cables, the leds and the buzzer.
 https://user-images.githubusercontent.com/106342136/172499908-4467ca10-2061-4d7c-924a-72f77053643a.mov
 
 
-### **{8}**
+### **{8}** Add the External USB battery UPBK10002BK 10000 mAh - 1 x 2.1 A, 1 x 1 A and 1 x 3 A and the accumulator in the case.
+I recommend that you place the external battery as shown above with a rilsan without overtightening.
 
-
-
-
-
+## Installation
+### Raspberry  PI4 configuration
+You will see, that very easy. First, you  
 You will need to download a last library who **is not included in my repo.**  
 This is the **grove.py** library ( to use arduino script on python ).  
   
