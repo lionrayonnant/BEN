@@ -125,7 +125,9 @@ I recommend that you place the external battery as shown above with a rilsan wit
 
 ## Installation
 ### Raspberry  PI4 configuration
-You will see, that very easy. First, you  
+You will see, that very easy. First, you need to grab your 32 GB SD card and plug it in your desktop. Then, launch your favorite web-browser and download the software "Balena Etcher".  
+Their is the link of the official website : https://www.balena.io/etcher/  
+Once you have install the software, go to https://raspberry-pi.fr/telechargements/ and download the raspbian image ( don't choose the lite version because it will be more difficult to connect at the wifi, but if you want you can choose the lite version and connect the raspberry pi at internet with a Ethernet cable during the download of libraries. )
 You will need to download a last library who **is not included in my repo.**  
 This is the **grove.py** library ( to use arduino script on python ).  
   
