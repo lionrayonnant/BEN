@@ -113,6 +113,7 @@ Their is the documentation : https://www.gotronic.fr/pj2-hc-sr04-utilisation-ave
 
 ### **{6}** Plug the necessary cables from the RPI4 to the breadboard, add some leds and the buzzer.  
 As the pictures below, plug the necessary cables, the leds and the buzzer.  
+  
 ![IMG_3574](https://user-images.githubusercontent.com/106342136/172499657-29e99176-7738-4a2a-a345-f7d6fb3ef40c.png)
 
 ![IMG_3577](https://user-images.githubusercontent.com/106342136/172499641-9fe23b89-57cb-4a13-bfd7-6ed22440f9f4.png)
