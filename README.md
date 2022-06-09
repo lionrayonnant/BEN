@@ -67,10 +67,14 @@ You can find below some realizations graphic that I have made.
 ![diagram1](/github/ressources/diagram1.png)
 <p align="center">
     <img  src="/github/ressources/diagram2.png"
-      width="284" border="0" alt="diagram2">
+      width="500" border="0" alt="diagram2">
 </p>  
-  
-Here is a global diagram : [global_diagram.pdf](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856730/global_diagram.pdf)
+
+<p align="center">
+    <img  src="https://user-images.githubusercontent.com/106342136/172750441-5a223c70-1d50-41fd-8c41-7fcf6dff6a06.png">
+</p>  
+
+Here is the global diagram : [global_diagram.pdf](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856730/global_diagram.pdf)
 ## Assembly
 ### **{0}** First, you need to assemble the Chassis Robot05.    
 You can find all the necessary informations in this documentation : [pj2-robot05-manual-2152.pdf](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856761/pj2-robot05-manual-2152.pdf)  
