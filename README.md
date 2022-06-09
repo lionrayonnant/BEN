@@ -82,6 +82,7 @@ You can find all the necessary informations in this documentation : [pj2-robot05
 Now you should have something like this :  
   
 ![robot_view1](github/ressources/robot_view1.png)
+  
 ![robot_view1 2](github/ressources/robot_view1.2.png)
   
 ### **{1}** Then, you can to screw the RPI4 on the frame.    
