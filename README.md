@@ -163,21 +163,28 @@ Now you gonna need to get some libraries.
 
 ### **{2}** Libraries.
 If you want that the code executes well, you nedd to add this libraries in the project folder.  
-### 
-
-
-You will need to download a last library who **is not included in my repo.**  
-This is the **grove.py** library ( to use arduino script on python ).  
+### Adafruit_CircuitPython_Bundle
+To install this library you need to write this command in the terminal :  
   
-Make a **git clone** in your project folder with this command line :  
+`pip3 install adafruit-circuitpython-lis3dh`
   
-`git clone https://github.com/Seeed-Studio/grove.py`
+Their is the link of the repo Github : https://github.com/adafruit/Adafruit_CircuitPython_Bundle
+### Adafruit_CircuitPython_US100
+To install this library you need to write this command in the terminal :  
   
-## opencv2
+`pip3 install adafruit-circuitpython-us100`
+  
+Their is the link of the repo Github : https://github.com/adafruit/Adafruit_CircuitPython_US100
+### grove.py
+To install this library you need to write this command in the terminal :  
+  
+``git clone https://github.com/Seeed-Studio/grove.py``
+  
+Their is the link of the repo Github : https://github.com/Seeed-Studio/grove.py
+### opencv2
   
 You need to download opencv2 if you want run the camera.  
-Follow the instructions bellow to install it :  
-- Write this commands in the terminal :  
+Enter the commands bellow in the terminal to install it :    
 
 `sudo pip3 install opencv-contrib-python==4.5.5.62`  
 
