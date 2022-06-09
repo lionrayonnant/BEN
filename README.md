@@ -40,7 +40,7 @@ main parameters on a supervision PC.
 - [**5**] Studying, simulating and carrying out the authorization of access to products based on the reading of a
 QR Code.
   
-My task was the number **1**. So, I have made a lot of research and take some notes before starting. I have search how complete my task by the best way without spend too much money. 
+My task was the number **1**. So, I have made a lot of research and take some notes before starting. I have search how to complete my task by the best way without spend too much money. 
 ## Components
 So I choose these components for the realization of the robot :
   
