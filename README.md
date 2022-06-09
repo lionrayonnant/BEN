@@ -133,9 +133,8 @@ You will see, that very easy. First, you need to grab your 32 GB SD card and plu
   
 Once you have install the software, go to https://raspberry-pi.fr/telechargements/ and download the raspbian image. Don't choose the lite version because it will be more difficult to connect at the wifi because it's a version with only the terminal, so their are no graphical part. But if you want you can choose the lite version and connect the raspberry pi at internet with a Ethernet cable during the download of libraries.  
   
-Now, launch Balena Etcher, choose your SD card in the devicees detected, choose the raspbian image you just have download and start flashing your SD card.    
-As soon as the flash process is finish, remove the SD card and plug it in the RPI4.  
-If you need more detailled explanations with visuals, check this video : https://www.youtube.com/watch?v=En3C6uccixw  
+Now, launch Balena Etcher, choose your SD card in the devicees detected, choose the raspbian image you just have download and start flashing your SD card. As soon as the flash process is finish, remove the SD card and plug it in the RPI4. If you need more detailled explanations with visuals, check this video : https://www.youtube.com/watch?v=En3C6uccixw  
+  
 You can boot the RPI4 by link him on a screen, connect the power bank, a keyboard and a mouse. Now you arrived on the desktop menu.
   
 ![Raspbian_2019 04_application_menu](https://user-images.githubusercontent.com/106342136/172739344-e9a18cfe-bfe3-41be-a416-842959411f61.jpg)
