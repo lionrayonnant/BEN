@@ -195,4 +195,34 @@ Enter the commands bellow in the terminal to install it :
 
 Link of the library repo :es: : https://github.com/ComputadorasySensores/Capitulo53
 
+### **{3}** Launch it !
+For makes run the robot you have two options. The first is to run the code with the code editor by default in the RPI4. So, you just have to click on the file named "[1]deplacements.py" and then, click on the big green button. If you want to makes run the robot from a distance you gonna need of the SSH.  
+  
+To use ssh you need to have a computer connected at the same network at the RPI4. On the computeur install Putty, their is the link of the website : https://www.putty.org/  
+  
+Then, get back on the RPI4 and just hover your mouse over the internet icon at the top right. It should show you something like this :  
+  
+![help-ip-raspberry](https://user-images.githubusercontent.com/106342136/172747309-0565e6c5-96d3-4c11-bbc5-4da3e3d8246c.png)  
+  
+The series of numbers displayed is your local ip address. Pick it up and write it down.  
+  
+We gonna authorize the SSH connection, disabled by default for security reasons. Now open a terminal on the RPI4 and type this command :
+  
+`sudo raspi-config`
+  
+Now you should have this graphical interface :  
+  
+![raspi-config-939x365](https://user-images.githubusercontent.com/106342136/172747977-375fb72b-0ac1-4891-a5b3-d38e80b3cf30.png)
+raspiconfig is very usefull for a lot of parameters on raspberry pi.
+  
+I advice you to change your password first, it's the first line, just make enter and follow the instructions. Now you can enable ssh securely
+  
+Now go on the "Interfacing options" line, make enter, select SSH and say "YES". Make finish and exit. It's all ready, your RPI can be connected by ssh to you computer ! If you need others explanations about sets the SSH on, check this video : https://www.youtube.com/watch?v=O8AIuD_QAgE and go at 08:30.  
+  
+To get connected by ssh at your RPI4 you finaly needs to use Putty. Launch Putty and enter the IP adress that you have pick up just before in the first rectangle ( without the /xx ), click on connect. And BOOM you have a first warning box who pop, you click on ok and the terminal appears. By default the username is "pi" and the password "raspberry". If you have well changed your password in raspi-config DO NOT enter "raspberry" as password but the password you have entered. BA-BOOM you are connected by SSH in the terminal of your RPI4 and you can do anything as on the RPI4 directly.  
+  
+So, we wants to launch the program right ? As before, type `ls` and verify that you see well the Documents directory. Then, write `cd Documents/[THE NAME OF YOUR PROJECT]` in the terminal and finally `python3 deplacements.py`. You can see the robot moove.
+  
+
+
 Good luck STI2D !
