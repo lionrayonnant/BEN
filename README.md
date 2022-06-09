@@ -139,7 +139,7 @@ You can boot the RPI4 by link him on a screen, connect the power bank, a keyboar
   
 ![Raspbian_2019 04_application_menu](https://user-images.githubusercontent.com/106342136/172739344-e9a18cfe-bfe3-41be-a416-842959411f61.jpg)
   
-On the upper rigth you can set up your WIFI. Once your WIFI is configurated, update your RPI4 with these commands runs in the terminal :  
+On the upper right you can set up your WIFI. Once your WIFI is configurated, update your RPI4 with these commands runs in the terminal :  
   
 `sudo apt update`  
 `sudo apt upgrade`
