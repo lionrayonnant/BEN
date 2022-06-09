@@ -79,7 +79,9 @@ Here is a global diagram : [global_diagram.pdf](https://github.com/lionrayonnant
 ## Assembly
 ### **{0}** First, you need to assemble the Chassis Robot05.    
 You can find all the necessary informations in this documentation : [pj2-robot05-manual-2152.pdf](https://github.com/lionrayonnant/Mr.Robot-Robot-Livreur/files/8856761/pj2-robot05-manual-2152.pdf)  
-Now you should have something like this : ![robot_view1](github/ressources/robot_view1.png)
+Now you should have something like this :  
+  
+![robot_view1](github/ressources/robot_view1.png)
 ![robot_view1 2](github/ressources/robot_view1.2.png)
   
 ### **{1}** Then, you can to screw the RPI4 on the frame.    
