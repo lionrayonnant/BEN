@@ -162,7 +162,8 @@ To go in the Documents directory, write `cd Documents/` ps : you can write the b
 Now you gonna need to get some libraries.
 
 ### **{2}** Libraries.
-
+If you want that the code executes well, you nedd to add this libraries in the project folder.  
+### 
 
 
 You will need to download a last library who **is not included in my repo.**  
