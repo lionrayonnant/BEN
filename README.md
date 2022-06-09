@@ -221,7 +221,8 @@ Now go on the "Interfacing options" line, make enter, select SSH and say "YES". 
   
 To get connected by ssh at your RPI4 you finaly needs to use Putty. Launch Putty and enter the IP adress that you have pick up just before in the first rectangle ( without the /xx ), click on connect. And BOOM you have a first warning box who pop, you click on ok and the terminal appears. By default the username is "pi" and the password "raspberry". If you have well changed your password in raspi-config DO NOT enter "raspberry" as password but the password you have entered. BA-BOOM you are connected by SSH in the terminal of your RPI4 and you can do anything as on the RPI4 directly.  
   
-So, we wants to launch the program right ? As before, type `ls` and verify that you see well the Documents directory. Then, write `cd Documents/[THE NAME OF YOUR PROJECT]` in the terminal and finally `python3 deplacements.py`. You can see the robot moove.
+So, we wants to launch the program right ? As before, type `ls` and verify that you see well the Documents directory.  
+Then, write `cd Documents/[THE NAME OF YOUR PROJECT]` in the terminal and finally `python3 deplacements.py`. You can see the robot moove.
   
 
 
