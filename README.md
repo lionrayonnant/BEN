@@ -226,7 +226,14 @@ Now go on the "Interfacing options" line, make enter, select SSH and say "YES". 
 To get connected by ssh at your RPI4 you finaly needs to use Putty. Launch Putty and enter the IP adress that you have pick up just before in the first rectangle ( without the /xx ), click on connect. And BOOM you have a first warning box who pop, you click on ok and the terminal appears. By default the username is "pi" and the password "raspberry". If you have well changed your password in raspi-config DO NOT enter "raspberry" as password but the password you have entered. BA-BOOM you are connected by SSH in the terminal of your RPI4 and you can do anything as on the RPI4 directly.  
   
 So, we wants to launch the program right ? As before, type `ls` and verify that you see well the Documents directory.  
-Then, write `cd Documents/[THE NAME OF YOUR PROJECT]` in the terminal and finally `python3 deplacements.py`. You can see the robot moove.
+Then, write `cd Documents/[THE NAME OF YOUR PROJECT]` in the terminal and finally `python3 deplacements.py`. You can see the robot moove.  
+### Deeper Explanations
+In this part, I'm gonna explain to you how the components works and how the code works.  
+### {0} Raspberry Pi 4 B board - 2 GB
+![image](https://user-images.githubusercontent.com/106342136/172963070-10194e3e-397e-4b00-ba48-1962941d93a9.png)  
+  
+The Raspberry PI4B is a component very popular in the tech community. By its size and price, the Raspberry PI4 is very usefull for every domotics, embedded technology projects or learning. 49 x 85 mm, 35$ and that all. So little in dimensions and price. The dimensions is perfects to get mounted on a robot or set up in a ceiling, the price is perfect to do multiples project or learn the informatic without spending too much money. In effect, the RPI4 is widely used in the poorest regions to learn about computers. Check this article if you want and example : https://afriqueitnews.com/news/cameroun-une-ecole-en-zone-rurale-recoit-une-trentaine-de-raspberry-pi-pour-un-labo-informatique/. But even in affluent areas, the raspberry pi is very usefull to learn the fundementals of the informatic, check this link to get a list of ideas : https://www.blog-nouvelles-technologies.fr/70309/10-projets-raspberry-pi-pour-les-debutants/.
+
   
 
 
